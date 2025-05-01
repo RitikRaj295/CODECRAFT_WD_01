@@ -1,4 +1,4 @@
-# ✨ Scroll-Aware Navbar & Text Animation Landin Page
+# ✨ Scroll-Aware Navbar & Text Animation Landing Page
 
 An interactive and responsive frontend project demonstrating scroll-triggered UI effects using **HTML**, **CSS**, and **JavaScript**.
 
