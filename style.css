@@ -77,6 +77,17 @@ body {
   }
 
   @media (max-width:"500px"){
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: aquamarine;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      user-select: none;
+    }
+
     .navbar {
       position: fixed;
       margin: auto;
